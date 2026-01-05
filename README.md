@@ -1,6 +1,6 @@
 # 🚗 Power BI — AutoShop Operations Dashboard (DEMO 2) | 2025
 
-![Cover](assests/1 Landing page.png)
+![Cover](assets/page_01_resumen.png)
 
 **Diagnóstico • Utilización • Tiempo muerto (HOLD) • Inventario & Proveedores**  
 > Caso tipo: taller mecánico pequeño (6 bahías / 6 técnicos). Dataset sintético para portafolio.
@@ -34,21 +34,19 @@ Este demo muestra cómo detectar esas fugas, cuantificarlas y convertirlas en un
 > Coloca aquí tus capturas en /assets (importante para que el repo “venda” solo)
 
 - **Página 1 — Resumen Ejecutivo**  
-  `assets/page_01_resumen.png`
+  ![](assets/page_01_resumen.png)
 
 - **Página 2 — Diagnóstico & Espera**  
-  `assets/page_02_diagnostico_flujo.png`
+  ![](assets/page_02_diagnostico_flujo.png)
 
 - **Página 3 — Utilización & Tiempo perdido**  
-  `assets/page_03_utilizacion_hold.png`
+  ![](assets/page_03_utilizacion_hold.png)
 
 - **Página 4 — Inventario & Proveedores**  
-  `assets/page_04_inventario.png`
+  ![](assets/page_04_inventario.png)
 
 - **Página 5 — Hallazgos + Plan 90 días**  
-  `assets/page_05_hallazgos_plan_90_dias.png`
-
-> Consejo: sube también un `assets/cover.png` (una captura “hero”) y colócala arriba del todo.
+  ![](assets/page_05_hallazgos_plan_90_dias.png)
 
 ---
 
