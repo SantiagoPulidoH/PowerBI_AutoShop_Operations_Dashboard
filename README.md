@@ -1,4 +1,7 @@
 # 🚗 Power BI — AutoShop Operations Dashboard (DEMO 2) | 2025
+
+![Cover](assests/1 Landing page.png)
+
 **Diagnóstico • Utilización • Tiempo muerto (HOLD) • Inventario & Proveedores**  
 > Caso tipo: taller mecánico pequeño (6 bahías / 6 técnicos). Dataset sintético para portafolio.
 
